@@ -1,0 +1,22 @@
+.auth-login-wrapper {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 12%;
+    padding: 0 0 2vh 0;
+    color : #bdc1c6;
+    border : 5px solid hsl(250, 69%, 61%);
+    width : 40%;
+    border-radius : 10px;
+}
+
+.auth-login-title {
+    background-color : hsl(250, 69%, 61%);
+    margin: 0px 0px 2vh 0px;
+}
+h1 {
+    text-align : center;
+}
+
+.auth-login {
+    text-align: center;
+}
